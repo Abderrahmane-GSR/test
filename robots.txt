@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://abderrahmane-gsr.vercel.app/sitemap.xml
